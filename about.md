@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+사람, 소통, 글쓰기, 단순한 삶, IT, Apple, 자동화(Automation), 생산성(Productivity), 교육, 육아, 사진, 그림에 관심이 많은 사람이 운영하는 개인 블로그입니다. 주로 위에 나열한 주제에 관한 글을 올립니다.
 
-### More Information
+이 블로그에는 댓글을 달 수 없습니다. 많은 생각 끝에 블로그 댓글보다는 다른 창구를 통해 여러분과 소통하기로 했습니다. 이 블로그에 올라오는 글에 대한 피드백은 [이메일](charmjf@gmail.com)을 보내시면 됩니다. 꼭 블로그 글에 대한 피드백이 아니어도, 트위터([@charmjf][0096-001])나 ADN([@charmjf][0096-002])에서 저를 만나실 수 있습니다.
 
-A place to include any other types of information that you'd like to include about yourself. 
+이곳에 올라오는 글은 제가 직접 작성한 글입니다. 다른 곳에서 링크를 많이 가져오지만, 인용이나 링크를 공유하고 전문을 무단 전재하지 않습니다. 이곳에 있는 글을 다른 곳으로 무단 전재하는 것은 허락하지 않습니다. 링크를 공유하는 것과 인용은 환영합니다.
 
-### Contact me
+함께 즐겁고 행복한 삶을 살기 바랍니다. **지금, 오늘, 행복하세요. :)**
 
-[email@domain.com](mailto:email@domain.com)
+[0096-001]: https://twitter.com/charmjf
+[0096-002]: https://alpha.app.net/charmjf
