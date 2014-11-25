@@ -10,7 +10,7 @@ tags: pinboard webservice bookmarking
 
 
 1. Pinboard 소개
-2. Pinboard 즐겨찾기 추가]
+2. Pinboard 즐겨찾기 추가
 	1. Safari 북마클릿으로 추가
 	2. IFTTT를 이용한 즐겨찾기 추가
 	3. Shiori를 이용한 즐겨찾기 추가
