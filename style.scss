@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #f2f2f2;
-  font: 18px/1.4 "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum;
+  font: 18px/1.6 "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum;
   color: $darkGray;
 }
 
@@ -70,8 +70,8 @@ p {
 
 a {
   color: $blue;
-  text-decoration: none;
 	cursor: pointer;
+  text-decoration: none;
   &:hover, &:active {
     color: $blue;
   }
@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;
+  max-width: 100%;display:block;margin:0 auto
 }
 
 .date {
@@ -271,6 +271,50 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+/*Tag from https://alexpearce.me*/
+.tags {
+  padding: 0;
+  list-style-type: none;
+  font-size: 0.9em;
+  color: $darkGray;
+}
+
+.archive_list {
+  padding: 0;
+  list-style-type: none;
+}
+
+.tags li {
+  float: left;
+  margin: 0 7px;
+}
+
+.tags li a {
+  padding: 1px 12px 2px 12px;
+  color: #bcc5c8;
+}
+
+.tags li a:hover {
+  color: #5e6d74;
+}
+
+.post-tags {
+  margin: 20px 0 0 0;
+}
+/* normalize.css Clearfix */
+.cf {
+  *zoom: 1
+}
+
+.cf:before, .cf:after {
+  content: "";
+  display: table;
+}
+
+.cf:after {
+  clear: both
 }
 
 footer {

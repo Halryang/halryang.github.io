@@ -2,38 +2,11 @@
 layout: post
 title: Copy Dropbox public link url to Clipboard - Keyboard Maestro Macro
 date: 2014-10-20 23:35:35.000000000 +09:00
-categories:
-- Like
-- Productivity
-tags:
-- automation
-- dropbox public link
-- Keyboard geek
-- Keyboard Maestro
-- Keyboard Maestro Macro
-- LaunchBar
-- workflow
-status: publish
-type: post
-published: true
-meta:
-  _mytory_markdown_etag: 67295n
-  mytory_md_path: http://dl.dropboxusercontent.com/u/18183807/wp/Copy%20Dropbox%20public%20link%20url%20to%20Clipboard.txt
-  _edit_last: '1'
-  slide_template: default
-  _wpas_done_all: '1'
-  post_views_count: '0'
-  _likes: '0'
-author:
-  login: brandnewjf
-  email: charmjf@gmail.com
-  display_name: brandnewjf
-  first_name: ''
-  last_name: ''
+tags: Keyboard-Maestro
 ---
 ## Dropbox의 Public 폴더 안의 파일의 공유 링크를 쉽게 얻자
 
- 나처럼 Mytory markdown plugin을 사용해서 워드프레스에 포스팅하는 경우(워드프레스 포스팅 자동화에 관한 [이전 글](http://sunjin.us/automation-for-wp-posting/ "Automation for wp posting | SUNJIN") 참조) Dropbox의 공개링크 url이 필요하다. 그래서 Copy Dropbox public link url to Clipboard 라는 긴 이름의 Keyboard Maestro Macro를 만들었다. 매크로 이름에서 바로 오늘 소개할 매크로의 기능을 알 수 있다. Dropbox의 Public 폴더 안에 있는 파일의 공개링크주소를 클립보드에 복사한다. 이번 매크로에는 Automator로 만든 간단한 Workflow가 들어가 있다. Keyboard Maestro 내에서 파일을 선택하는 창을 띄울 수 있는지 몰라서 다른 방법을 찾다 보니 Automator를 사용하게 되었다. Keyboard Maestro에는 Automator workflow를 실행하는 액션이 있어서 Automator로 만든 workflow도 잘 녹아든다.
+Copy Dropbox public link url to Clipboard 라는 긴 이름의 Keyboard Maestro Macro를 만들었다. 매크로 이름에서 바로 오늘 소개할 매크로의 기능을 알 수 있다. Dropbox의 Public 폴더 안에 있는 파일의 공개링크주소를 클립보드에 복사한다. 이번 매크로에는 Automator로 만든 간단한 Workflow가 들어가 있다. Keyboard Maestro 내에서 파일을 선택하는 창을 띄울 수 있는지 몰라서 다른 방법을 찾다 보니 Automator를 사용하게 되었다. Keyboard Maestro에는 Automator workflow를 실행하는 액션이 있어서 Automator로 만든 workflow도 잘 녹아든다.
 
 ### 이 매크로의 장점
 

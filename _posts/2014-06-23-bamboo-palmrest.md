@@ -2,6 +2,7 @@
 layout: post
 title: 대나무 팜레스트 구매
 date: 2014-06-23 09:45:39
+tags: keyboard palmrest
 ---
 
 ![Bamboo Palmrest](https://files.app.net/1/1349886/afGpEEuvGkJICtcaZ5ndWGQygaJ0x25LS4oE0Ve5SLc0zHNXA8BK-MV-1hdlm0czOMrQhejWEipoVejrIH4PXjbAp97vF0614vHGeodDh2KaMeo3b-zkERk69grg9ZPW6AsX0MZ0_oim9M9kprF5-mPqyyj5kTHgGJENt-I87L3HGDHu1xabcCAR_KkNth1un)

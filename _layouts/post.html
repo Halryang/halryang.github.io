@@ -13,5 +13,23 @@ layout: default
     <br>  
     이 글은 {{ page.date | date: "%Y-%m-%d" }}에 작성되었습니다.
   </div>
+  
+  <br>
 
+  <div>
+    <ul class="tags post-tags cf">
+      <li>Tagged:</li>
+      {% for tag in page.tags %}
+      <li><a href="/search/?tags={{ tag }}">{{ tag | downcase }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <br>
 </article>
+
+<!-- responsive video js -->
+<script src="/js/videoresponsive.js"></script>
+
+<script defer src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+<!-- tag, category search -->
+<script defer src="/js/alexpearce.js"></script>

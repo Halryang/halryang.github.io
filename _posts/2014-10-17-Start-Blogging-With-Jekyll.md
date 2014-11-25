@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitHub pages를 이용하여 Jekyll Blog를 만들자
+tags: jekyll github blogging
 ---
 # Intro
 
