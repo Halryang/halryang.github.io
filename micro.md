@@ -3,9 +3,14 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+DEVONthink Pro에서 ⌘⌥P로 마크다운 문서를 Best alternative view로 확인 가능하다. 물론 Marked 2를 사용해서 보는게 10000배 낫다.  
+*at 2014-11-26*
+
+***
+
 [TinyPNG](https://tinypng.com/ "TinyPNG – Compress PNG images while preserving transparency")
 PNG compress site  
-*at 2014-11-25*
+*at 2014-11-26*
 
 ***
 
