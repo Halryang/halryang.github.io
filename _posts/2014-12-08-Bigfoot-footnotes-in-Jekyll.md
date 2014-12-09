@@ -89,6 +89,12 @@ tags: Bigfoot footnote jekyll
 
 한 가지 아쉬운 점은 Bigfoot을 적용하고 보니 각주 내용에서 본문의 해당 부분으로 돌아가는 기능이 작동하지 않는다. 이 점만 고쳐지면 정말 흡족할 것 같다. 아랫 부분에서 본문의 해당 위치로 돌아가는 기능이 작동하지 않아서 지금은 아예 본문 아래에 각주 내용은 숨겨두었다. 이게 보기엔 더 깔끔하다.
 
+***
+
+### 2014-12-09 **변경사항**
+
+오늘 [Bigfoot](http://www.bigfootjs.com/ "bigfoot.js")에서 다시 `bigfoot.min.js`와 `bigfoot-number.css`파일을 내려받아서 덮어 씌우고 `default.html`파일에 옵션 값으로 `anchorPattern: /(fn|footnote|note)[\-_\d]/gi`를 추가했다. Bigfoot의 각주에서 기본 anchor pattern이 `/#fnref:1`의 형태인데, 내가 쓰는 Redcarpet는 `/#fnref1`의 형태라서 이걸 맞춰주었다. 이게 문제점이었는지는 모른다. 하지만 고치고 나서 각주에서 본문으로 이동이 가능하다. :)
+
 [^1]: 팝오버 창은 이렇게 작동한다. 누르기 편하고 마음에 든다. :)
 
 [^2]: 나는 _scss 폴더에 넣어서 import 하는 방식이 잘 적용되지 않아서 이렇게 했다. 어쨌든 제대로 작동한다.
