@@ -23,8 +23,9 @@
     <script type="text/javascript">
         var bigfoot = $.bigfoot(
         {
-        actionOriginalFN: "hide",
-        positionContent: "true"
+        actionOriginalFN: "ignore",
+        positionContent: "true",
+        anchorPattern: /(fn|footnote|note)[\-_\d]/gi
         }
         );
     </script>
