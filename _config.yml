@@ -87,4 +87,4 @@ exclude:
     - LICENSE
     - README.md
 
-paginate: 5
+paginate: 4

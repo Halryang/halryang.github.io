@@ -326,6 +326,33 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "_highlights";
 
+/*****************************************************************************/
+/*
+/* TOC
+/*
+/*****************************************************************************/
+
+div#toc {
+  border-top: 1px solid #aaa;
+  border-bottom: 1px solid #aaa;
+}
+
+div#toc ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+div#toc ul li ul,div#toc1 ul li ul,.mobile div#toc1 ul li ul {
+  margin-bottom: .75em;
+}
+div#toc ul li ul li ul,div#toc1 ul li ul li ul,.mobile div#toc1 ul li ul li ul {
+  margin-bottom: .25em;
+}
+div#toc1 ul,.mobile div#toc1 ul {
+  list-style: none;
+  margin: .25em 0 1.5em 1em;
+}
+
 // Bigfoot css
 .bigfoot-footnote__button {
   position: relative;
