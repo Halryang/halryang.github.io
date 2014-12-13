@@ -2,7 +2,7 @@
 layout: post
 title: Sublime Text 3로 지킬 포스트 작성하기
 date: 2014-12-12 11:07:43
-tags: SublimeText3 app
+tags: SublimeText3 app jekyll
 ---
 <div id="toc"><p class="toc_title"></p></div>
 ## Sublime Text 3 소개
