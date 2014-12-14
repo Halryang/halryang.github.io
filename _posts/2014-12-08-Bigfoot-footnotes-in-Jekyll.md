@@ -39,6 +39,21 @@ tags: Bigfoot footnote jekyll
 
 오늘 [Bigfoot](http://www.bigfootjs.com/ "bigfoot.js")에서 다시 `bigfoot.min.js`와 `bigfoot-number.css`파일을 내려받아서 덮어 씌우고 `default.html`파일에 옵션 값으로 `anchorPattern: /(fn|footnote|note)[\-_\d]/gi`를 추가했다. Bigfoot의 각주에서 기본 anchor pattern이 `/#fnref:1`의 형태인데, 내가 쓰는 Redcarpet는 `/#fnref1`의 형태라서 이걸 맞춰주었다. 이게 문제점이었는지는 모른다. 하지만 고치고 나서 각주에서 본문으로 이동이 가능하다. :)
 
+#### 내가 `_layouts/default.html`에 Bigfoot을 설정한 부분을 첨부한다.
+```javascript
+<script type="text/javascript" src="/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="/js/bigfoot.min.js"></script>
+<script type="text/javascript">
+    var bigfoot = $.bigfoot(
+      {
+      actionOriginalFN: "ignore",
+      positionContent: "true",
+      anchorPattern: /(fn|footnote|note)[\-_\d]/gi
+      }
+      );
+</script>
+```
+
 [^1]: 팝오버 창은 이렇게 작동한다. 누르기 편하고 마음에 든다. :)
 
 [^2]: 나는 _scss 폴더에 넣어서 import 하는 방식이 잘 적용되지 않아서 이렇게 했다. 어쨌든 제대로 작동한다.
