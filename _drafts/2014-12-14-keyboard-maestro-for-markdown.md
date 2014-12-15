@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 마크다운 입력을 편하게 해주는 Keyboard Maestro 라이브러리 소개
-tags: Keyboard-Maestro markdown app productivity automation
+tags: Keyboard-Maestro
 published: True
 ---
 
