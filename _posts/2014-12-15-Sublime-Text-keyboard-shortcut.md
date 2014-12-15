@@ -7,7 +7,7 @@ tags: SublimeText3 app shortcut
 
 단축키는 키보드를 사랑하는 사용자에겐 귀찮게 트랙패드나 마우스로 손을 옮기지 않게 해주는 친구다. 그리고 나는 키보드로 손을 옮기는 걸 귀찮아 한다. Sublime Text 3은 사용자가 편하게 문서를 작성할 수 있도록 도와주는 기능을 잘 갖추고 있다.
 
-[Sublime Text 키보드 단축키 cheat sheet - Sweetmeat](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/ "Sublime Text Keyboard Shortcut Cheat Sheet - Sweetmeat")를 보면 정말 보기 좋게 잘 정리했다. 내가 한글로 옮겨볼까 하다가 저만큼 예쁘게 작성하기 힘들 것 같아 공유하고 익히는 데 시간을 들이기로 했다.
+[Sublime Text 키보드 단축키 cheat sheet - Sweetmeat](http://sweetme.at/2013/08/08/sublime-text-keyboard-shortcuts/ "Sublime Text Keyboard Shortcut Cheat Sheet - Sweetmeat")을 보면 정말 보기 좋게 잘 정리했다. 내가 한글로 옮겨볼까 하다가 저만큼 예쁘게 작성하기 힘들 것 같아 공유하고 익히는 데 시간을 들이기로 했다.
 
 지금 내가 가장 많이 사용하는 단축키는
 
