@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "test-atom-with-markdown-writer"
+title: Atom - hackable text editor 짧은 사용기
 tag: test atom app markdown writing
 ---
 
