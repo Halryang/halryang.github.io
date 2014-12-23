@@ -2,7 +2,12 @@
 layout: page
 title: 잡담
 permalink: /micro/
----
+--
+코드카데미에서 파이썬 보는 중. 그런데 그냥 이것만 시키는대로 따라간다고 뭘 할 수 있게 되는건가 싶다.
+*at 2014-12-17*
+
+***
+
 DEVONthink Pro에서 ⌘⌥P로 마크다운 문서를 Best alternative view로 확인 가능하다. 물론 Marked 2를 사용해서 보는게 10000배 낫다.  
 *at 2014-11-26*
 

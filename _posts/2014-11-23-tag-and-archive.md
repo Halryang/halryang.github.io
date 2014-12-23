@@ -15,3 +15,8 @@ tags: jekyll blogging
 전체 글 목록은 훨씬 간단하게 추가했습니다. [Joshua Lande의 글](http://joshualande.com/jekyll-github-pages-poole/ "How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole · Joshua Lande")을 참고해서 지킬의 루트 디렉토리에 archive.md 를 만들고 default layout에 페이지 링크를 추가했습니다. 글이 작성된 날짜가 나오는 방식만 간단히 바꿨습니다.
 
 여기서 월별로 아카이빙하는 더 깔끔한 방법을 [seoulrain](!@t)님의 [블로그](http://seoulrain.net)를 통해 알게 되어 얼른 따왔습니다. 지금 보시는 [전체 글](http://halryang.github.io/archive/)이 결과물입니다.
+
+---
+
+## 태그 시스템 변경
+놀부님의 [포스팅](http://nolboo.github.io/blog/2014/01/09/upgrade-jekyll-github-blog/)을 보고 태그 시스템을 적용하려고 시도했으나 실패했었습니다. 다시 놀부님의 깃허브 Repo에 들어가서 commit 내용을 눌러서 하나도 빠짐없이 차근차근 다시 시도한 결과 지금은 놀부님의 태그 시스템을 적용했습니다. 저번엔 과정 중 어딘가를 빠트렸던 것 같습니다. 어쨌든 지금은 태그를 누르면 그 태그를 가지고 있는 글의 목록만 보여줍니다. :)
