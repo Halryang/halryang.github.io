@@ -74,6 +74,13 @@ GitHub를 이용하면 무료로 Jekyll 블로그를 만들 수 있다는 글을
  gem install github-pages 를 통해서도 Jekyll을 설치할 수 있으나 문제가 발생할 수 있다고 적혀 있다(If you decided to skip step #2, you can still install Jekyll with the command gem install github-pages, but you may run into trouble down the line).
  
  gemfile과 Gemfile.lock이 생성되어 새로 push하는 방법을 몰라서 git add 명령어를 배우게 되었다. 겨우 Push만 했을 뿐 아직 익히진 못했다.
+ 
+ ```
+ git add . -A && git commit -m "커밋 내용"
+ git push -u origin master
+ ```
+
+이렇게 두 줄의 터미널 명령어로 블로그의 변경사항을 커밋하고 푸쉬할 수 있다. 변경한 내용이 사이트에 적용되는 데에는 약간의 시간이 걸릴 수 있지만 거의 바로바로 적용된다. [지킬 포스팅의 자동화](http://halryang.net/automation-for-jekyll-posting/)라는 글에 적은 것처럼 나는 TextExpander snippet을 만들어서 조금 더 편하게 사용하고 있다.
 
 ## 이제 블로그를 커스터마이징하자
 
@@ -105,6 +112,4 @@ WISWIG(What I See What I Get) 방식으로 글을 발행하는 여타 많은 블
 위와 같이 입력하면 된다. 이렇게 글을 입력하고 파일을 _post에 저장하고 add, push 했으면 Jekyll 블로그에서 글이 어떻게 보이는지 확인하는 일만 남았다.
 
 ## 이제 시작이다
-지금까지 Jekyll과 GitHub pages를 이용해서 정말 아무 것도 모르는 초보가 무료로 블로그를 하나 만들어 보는 과정을 정리했다. 혹시나 이 글이 다른 사람에게도 도움이 되면 정말 좋겠다.
-
-
+지금까지 Jekyll과 GitHub pages를 이용해서 정말 아무것도 모르는 초보가 무료로 블로그를 하나 만들어 보는 과정을 정리했다. 혹시나 이 글이 다른 사람에게도 도움이 되면 정말 좋겠다.
