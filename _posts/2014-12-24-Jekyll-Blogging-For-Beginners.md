@@ -9,7 +9,7 @@ tags: jekyll blogging easyjekyll
 
 일단 가장 큰 차이점은 이전 글에서는 터미널에서 로컬에 Jekyll을 설치하고 나서 GitHub에 사이트를 푸쉬해서 시작했다면, 지금 이글을 올리는 [한량넷](http://halryang.net)은 이미 기본적인 설정이 되어 있는 테마인 [Jekyll Now](https://github.com/barryclark/jekyll-now)의 GitHub Repository(줄여서 레포, Repo)를 Fork해서 커스터마이징한 결과라는 점이다. 나처럼 코딩에 대한 지식이 없는 사람이 Jekyll 블로그를 시작하려고 한다면 후자의 방법을 선택하는 것이 훨씬 낫다.
 
-Jekyll Now는 정말 빠르게 블로그를 시작할 수 있도록 도와주지만 내가 사용하기엔 약간 아쉬운 기능들이 있었다. 그래서 그것을 보완한 과정과 보완한 버전을 EasyJekyll이라는 이름([easyjekyll repo](https://github.com/easyjekyll/easyjekyll.github.io/), [Demo](https://github.com/easyjekyll/easyjekyll.github.io/))으로 따로 만들어 봤다. Jekyll Now를 Fork해서 적용하는 것과 과정은 똑같으니 아래의 과정은 한번 읽어 보는 것이 좋다.
+Jekyll Now는 정말 빠르게 블로그를 시작할 수 있도록 도와주지만 내가 사용하기엔 약간 아쉬운 기능들이 있었다. 그래서 그것을 보완한 과정과 보완한 버전을 EasyJekyll이라는 이름([easyjekyll repo](https://github.com/easyjekyll/easyjekyll.github.io/), [Demo](https://easyjekyll.github.io/))으로 따로 만들어 봤다. Jekyll Now를 Fork해서 적용하는 것과 과정은 똑같으니 아래의 과정은 한번 읽어 보는 것이 좋다.
 
 ## Jekyll Now로 시작하기
 Jekyll Now([데모](http://www.jekyllnow.com/))는 GitHub에 Jekyll 블로그를 더 쉽게 설치할 수 있도록 도와주는 테마다. 지킬 블로그를 수 분 안에 만들 수 있다고 나와있는데, 금방 만들 수 있는 것은 분명하다.  
