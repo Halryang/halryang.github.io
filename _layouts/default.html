@@ -5,7 +5,7 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
-    <title>{% if page.title %}{{ page.title }} :: {% endif %}{{ site.name }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
 
     <meta name="author" content="{{ site.name }}" />
     <meta name="description" content="{{ site.description }}">
@@ -46,6 +46,7 @@
           
           <nav>
             <a href="{{ site.baseurl }}/about">소개</a>
+            <a href="{{ site.baseurl }}/tags">태그</a>
             <a href="{{ site.baseurl }}/archive">전체글</a>
             <a href="{{ site.baseurl }}/micro">잡담</a>
           </nav>
