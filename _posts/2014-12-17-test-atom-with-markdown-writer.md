@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Atom - hackable text editor 짧은 사용기
-tag: test atom app markdown writing
+tags: test atom app markdown writing
 ---
 
 ## Atom - A hackable text editor for the 21st Century
