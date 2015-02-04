@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Realmac Software에서 새로운 블로깅 플랫품 개발 중
+title: Realmac Software에서 새로운 블로깅 플랫폼 개발 중
 date: 2015-02-04 00:04:00
 tags: Typed mac writing markdown app blogging
 ---
