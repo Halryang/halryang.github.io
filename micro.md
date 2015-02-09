@@ -3,6 +3,9 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+오늘도 하루가 참 잘 지나간다. fluidvids.js는 계속해서 이 블로그에서는 충돌이 일어나는건지 잘 적용되지 않아서 결국 안 쓰기로 결정했다. 대신 Keyboard Maestro Macro를 이용해서 YouTube / Vimeo 영상을 보는 중에 바로 반응형 embed code를 클립보드로 넣는 방법을 이용하기로 했다.
+
+***
 
 문득 pagination이 참 안 예쁘다는 생각을 하고 CSS를 고쳐볼까 생각중. 일단 페이지가 엄청나게 많아지면 아래 페이지 숫자가 어떻게 보일지도 궁금하다.
 *at 2015-02-09*
