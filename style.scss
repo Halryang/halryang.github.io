@@ -66,7 +66,6 @@ h4 {
 
 p {
   margin: 15px 0;
-  text-indent: 0.5em;
 }
 
 a {
@@ -255,6 +254,10 @@ nav {
     color: $gray;
   }
 
+  p {
+    text-indent: 0.5em;
+  }
+
   .comments {
     margin-top: 10px;
   }
@@ -270,6 +273,43 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+}
+
+/*
+Plugin Name: WP-Digg Style Paginator
+Plugin URI: http://www.mis-algoritmos.com/2007/09/09/wp-digg-style-pagination-plugin-v-10/
+Author: Victor De la Rocha
+Author URI: http://www.mis-algoritmos.com
+*/
+
+/*CSS Sabrosus style pagination*/
+div.pagination {
+  padding:3px;
+  margin:3px;
+  text-align:center;
+}
+
+div.pagination a {
+  padding: 2px 5px 2px 5px;
+  margin-right: 2px;
+  
+  text-decoration: none; 
+  color: #4183C4;
+}
+
+div.pagination em {
+  padding: 2px 5px 2px 5px;
+  margin-right: 2px;
+  border: 1px solid #4183C4;
+  border-radius: 3px; 
+  text-decoration: none;
+  background-color: #4183C4;
+  color: #FFF;
+}
+div.pagination span {
+  padding: 2px 5px 2px 5px;
+  margin-right: 2px;
+  color: #929292;
 }
 
 /*Tag from https://alexpearce.me*/

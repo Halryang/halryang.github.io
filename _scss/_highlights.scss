@@ -4,7 +4,7 @@
 /***********************/
 
 .highlight { 
-  background-color: $darkerGray;
+  background-color: #ededed;
   padding: 5px 10px;
   margin: 20px 0;
 }
@@ -17,8 +17,6 @@
  
 code {
   font-family: 'Courier New', monospace;
-  border-radius: 3px;
-  border: 1px solid #cccccc;
   word-break: break-all;
   word-wrap: break-word;
   background: #ededed;
