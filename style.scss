@@ -327,16 +327,19 @@ div.pagination span {
 
 .tags li {
   float: left;
-  margin: 0 7px;
+  font-size: 13px;
+  font-size: 0.875rem;
+  line-height: 2.5;
 }
 
 .tags li a {
-  padding: 1px 12px 2px 12px;
-  color: #bcc5c8;
-}
-
-.tags li a:hover {
-  color: #5e6d74;
+  padding: 4px 6px;
+  margin: 2px;
+  background-color: #e6e6e6;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+  text-decoration: none;
 }
 
 .post-tags {
@@ -364,18 +367,6 @@ div.pagination span {
 
 /* Tag icon stuff : http://hamishwillee.github.io/2014/06/06/tags-in-jekyll-without-plugins/
 -------------------------------------------------- */
-
-
-
-.tag-icon-image
-{
-display:block;
-background-image:url('/images/tagicon.png');
-background-size: 13px;
-background-repeat: no-repeat;
-background-position: left center;
-padding-left:20px;
-} 
 
 
 
