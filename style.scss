@@ -263,7 +263,6 @@ nav {
   }
 
   .read-more {
-    text-transform: uppercase;
     font-size: 15px;
   }
 }
@@ -316,8 +315,8 @@ div.pagination span {
 .tags {
   padding: 0;
   list-style-type: none;
-  font-size: 0.9em;
-  color: $darkGray;
+  font-size: 1em;
+  color: $gray;
 }
 
 .archive_list {
@@ -328,7 +327,7 @@ div.pagination span {
 .tags li {
   float: left;
   font-size: 13px;
-  font-size: 0.875rem;
+  font-size: 1rem;
   line-height: 2.5;
 }
 
