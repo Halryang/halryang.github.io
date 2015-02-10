@@ -107,7 +107,7 @@ strong, b {
 }
 
 img {
-  max-width: 100%;display:block;margin:0 auto
+  max-width: 100%;display:block;margin:10px 0;
 }
 
 .date {
@@ -249,7 +249,7 @@ nav {
 .post { 
   blockquote {
     margin: 1em .5em;
-    border-left: 2px solid $gray;
+    border-left: 3px solid $gray;
     padding-left: 1em;
     color: $gray;
   }
