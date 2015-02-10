@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #f3f3f3;
+	background: #f2f2f2;
   font: 18px/1.6 "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum;
   color: $darkGray;
 }
@@ -65,7 +65,10 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 0 0 24px 0;
+}
+p:last-child {
+    margin:0;
 }
 
 a {
@@ -74,6 +77,7 @@ a {
   text-decoration: none;
   &:hover, &:active {
     color: $blue;
+    text-decoration: underline;
   }
 }
 
@@ -83,7 +87,7 @@ ul, ol {
 }
 
 ul {
-  list-style-type: disc;
+  list-style-type: square;
 }
 
 ol {
@@ -251,7 +255,7 @@ nav {
     margin: 1em .5em;
     border-left: 3px solid $gray;
     padding-left: 1em;
-    color: $gray;
+    color: #777;
   }
 
   p {
