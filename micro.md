@@ -3,6 +3,18 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+"Writing a novel is like driving a car at night. You can only see as far as your headlights, but you can make the whole trip that way." − *E. L. Doctorow*
+
+*at 2015-02-20*
+
+***
+
+"I'm not a very good writer, but I'm an excellent rewriter." − *James Michener*
+
+*at 2015-02-20*
+
+***
+
 오늘도 하루가 참 잘 지나간다. fluidvids.js는 계속해서 이 블로그에서는 충돌이 일어나는건지 잘 적용되지 않아서 결국 안 쓰기로 결정했다. 대신 Keyboard Maestro Macro를 이용해서 YouTube / Vimeo 영상을 보는 중에 바로 반응형 embed code를 클립보드로 넣는 방법을 이용하기로 했다.
 
 ***
