@@ -16,6 +16,7 @@ tags: LaunchBar Keyboard-Maestro productivity automation app macro
 각 매크로를 직접 Launchbar 창에서 간단히 불러올 수 있으면 좋겠지만 Launchbar에서 Keyboard Maestro의 매크로를 인덱싱하는 게 아니라서 그건 불가능하다고 하네요. 지금 소개한 액션 말고도 많은 유용한 액션들이 이미 공유되고 있으니 LaunchBar 6를 쓰고 계신 분은 포럼을 둘러보시길 권합니다.
 
 ### Keyboard Maestro 안에서 해결하자
+
 ![](/images/ss-kmm-search-by-macro-name.png)
 
 위에서 설명한 LaunchBar 액션을 사용하지 않고도 편하게 Keyboard Maestro Macro를 선택하는 방법이 있습니다. Keyboard Maestro은 매크로 이름으로 매크로를 검색하는 기능을 기본으로 제공합니다. 당연히 단축키를 사용해서 이 창을 불러올 수 있고, 전 ⌥+스페이스바 키를 이용해서 사용하고 있습니다. 저는 LaunchBar가 손에 익고 보기 좋아서 위의 방법을 많이 사용하지만, 이 방법도 상당히 깔끔하고 부드럽습니다. 위의 방법보다 조금 덜 손가락을 움직이고 매크로를 실행할 수 있기도 합니다. 물론 LaunchBar를 사용하지 않고 Keyboard Maestro만 쓰시는 분은 이 방법을 사용하시면 되고, LaunchBar와 Keyboard Maestro 모두 쓰시는 분은 둘 중에 더 마음에 드는 방법을 택해서 사용하시면 됩니다.
