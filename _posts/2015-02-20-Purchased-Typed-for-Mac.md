@@ -4,7 +4,7 @@ date: 2015-02-20 09:58:20
 title: Typed for Mac 구매
 tags: Typed writing markdown app
 ---
-![](https://farm8.staticflickr.com/7378/16405471919_3de8a48272.jpg)
+![](/images/icon_256x256.png)
 
 결국 [Typed for Mac](http://realmacsoftware.com/typed)를 구매했습니다. 이번에 스택소셜에서 번들[^1]로 풀린 바람에 싼 가격에 살 수 있었습니다. 사실 아직은 [Byword](http://bywordapp.com/)에 비해 완성되지 않은 느낌이지만 Zen mode에서 글을 쓰는 느낌은 나쁘지 않았고, 앞으로 또 많이 발전할 것을 기대하며 샀습니다.[^2]
 
