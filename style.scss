@@ -295,15 +295,14 @@ div.pagination {
   text-align:center;
 }
 
-div.pagination a {
+div.pagination span {
   padding: 2px 5px 2px 5px;
   margin-right: 2px;
   
-  text-decoration: none; 
-  color: #4183C4;
+  text-decoration: none;
 }
 
-div.pagination em {
+div.pagination a {
   padding: 2px 5px 2px 5px;
   margin-right: 2px;
   border: 1px solid #4183C4;
@@ -311,11 +310,6 @@ div.pagination em {
   text-decoration: none;
   background-color: #4183C4;
   color: #FFF;
-}
-div.pagination span {
-  padding: 2px 5px 2px 5px;
-  margin-right: 2px;
-  color: #929292;
 }
 
 /*Tag from https://alexpearce.me*/
