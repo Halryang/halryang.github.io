@@ -25,7 +25,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -214,7 +214,8 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 17px;
+  display: inline-block;
   font-family: "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum; 
   font-size: 18px;
   
@@ -228,12 +229,11 @@ nav {
   a {
     margin-left: 20px;
     color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
+    display: inline-block;
 
     @include mobile {
       margin: 0 10px;
+      display: inline-block;
       color: $blue;
     }
   }
@@ -422,6 +422,8 @@ div.pagination a {
 footer {
   padding: 20px 0;
   text-align: center;
+  color: $gray;
+  font-size: 16px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
