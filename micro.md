@@ -3,6 +3,12 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+"The desire **to write** grows with ***writing***." − *Desiderius Erasmus*
+
+*at 2015-03-14*
+
+***
+
 "Writing a novel is like driving a car at night. You can only see as far as your headlights, but you can make the whole trip that way." − *E. L. Doctorow*
 
 *at 2015-02-20*
