@@ -3,6 +3,24 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+"What is written without effort is in general read without pleasure." − *Samuel Johnson*
+
+*at 2015-03-27*
+
+***
+
+"Write drunk, edit sober."  − *Ernest Hemingway*
+
+*at 2015-03-16*
+
+***
+
+"I always start writing witha clean piece of paper and a dirty mind." − *Patrick Dennis*
+
+*at 2015-03-16*
+
+***
+
 "The desire **to write** grows with ***writing***." − *Desiderius Erasmus*
 
 *at 2015-03-14*
