@@ -3,6 +3,12 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+“The work never matches the dream of perfection the artist has to start with." *− William Faulkner*
+
+*at 2015-05-29*
+
+***
+
 "What is written without effort is in general read without pleasure." − *Samuel Johnson*
 
 *at 2015-03-27*
