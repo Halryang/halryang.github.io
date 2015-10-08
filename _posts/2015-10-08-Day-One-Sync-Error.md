@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-10-08 09:49:54
-title: Day One Sync 오류: 일기들의 자가복제
+title: Day One Sync 오류 - 일기들의 자가복제
 tags: DayOne Error Duplication Sync
 ---
 
