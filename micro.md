@@ -3,6 +3,13 @@ layout: page
 title: 잡담
 permalink: /micro/
 ---
+"There's no such thing as writer's block. That was invented by people in California who couldn't write." − Terry Pratchett
+
+*at 2015-10-22*
+
+***
+
+
 “The work never matches the dream of perfection the artist has to start with." *− William Faulkner*
 
 *at 2015-05-29*
