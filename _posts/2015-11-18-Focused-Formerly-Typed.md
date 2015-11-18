@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2015-11-18 23:52:39
-title: Focused-Formerly-Typed
+title: Focused for Mac
 tags: Focused, Typed, Realmac_Software, 71Squared, app
 ---
 
