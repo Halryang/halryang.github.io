@@ -7,6 +7,8 @@ permalink: /micro/
 
 *at 2015-12-09*
 
+***
+
 "There's no such thing as writer's block. That was invented by people in California who couldn't write." − Terry Pratchett
 
 *at 2015-10-22*
