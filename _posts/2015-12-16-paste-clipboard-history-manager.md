@@ -4,7 +4,7 @@ title: Paste - 클립보드 히스토리 관리 앱 구매 후 소감
 date: 2015-12-16 15:04:47
 tags: Paste clipboard app mac
 ---
-![](http://pasteapp.me/assets/app-icons/paste-31a8f0cc154ae3a7645d5b6a97e4dfdd3ce707a4368396213a502e8b36721f90.png)
+![](/images/paste-icon-512x512.png)
 
 Paste[^1] 라는 클립보드 히스토리 관리 앱을 구매했습니다. 예쁘고, 키보드 단축키를 충실히 지원[^2]한다는 점이 마음에 듭니다. 저는 그동안 [LaunchBar](!s)의 클립보드 히스토리 기능을 주로 이용하고 있었는데, 같이 사용하면 또다른 시너지가 있지 않을까 기대합니다. iOS 앱도 개발중이고 나중에 iCloud sync를 이용해서 맥과 아이폰 사이에 클립보드 동기화도 지원할 예정이랍니다.
 
