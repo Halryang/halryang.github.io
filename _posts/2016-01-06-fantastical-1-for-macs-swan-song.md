@@ -4,7 +4,6 @@ title: Fantastical 1 업데이트 중단 소식
 date: 2016-01-06 02:13:39
 tags: Fantastical app
 ---
-### Fantastical 1 업데이트 중단 소식
 
 얼마 전 Fantastical 의 개발사 Flexibits에서 블로그 글[^1]로 Fantastical 1의 마지막 업데이트를 알렸습니다. Flexibits 에서 설명하기로는 4년이 넘는 시간 동안 업데이트하고 지원했지만 이제는 새로운 버전인 Fantastical 2에 집중하려고 한답니다. 그러니 Fantastical 1.3.19가 Fantastical 1의 최종 버전이 되겠습니다. 개발사 웹페이지에서 Fantastical 1을 구매하셨던 분은 `Check for Update...` 를 통해서 최종 버전으로 업데이트를 할 수 있습니다. 맥앱스토어에서 구매하신 분은 아래에 적은 과정으로 설치하실 수 있습니다.
 
