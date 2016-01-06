@@ -14,7 +14,7 @@ Yoink 웹사이트[^1]에 갔다가 이전에는 눈여겨 보지 못했던 사�
 
 ### 서비스 설치하기
 
-1. Automator 워크플로우를 [여기](/assets/Yoink_Screencapture_Workflow.workflow)서 내려받습니다.
+1. Automator 워크플로우를 [여기](https://drive.google.com/file/d/0B_O14bil77TiYk5oaG5neWNjeG8/view?usp=sharing)서 내려받습니다.
 2. 내려받은 `.workflow` 파일을 더블 클릭합니다.
 3. Install 을 눌러 설치합니다. (스크린샷이 저장될 폴더를 지정하거나 파일명 형식을 지정하시려면 `Open with Automator` 를 누릅니다.)
 4. 위의 과정을 거치면 워크플로우가 `~/Library/Services/` 폴더에 설치됩니다.
@@ -51,7 +51,7 @@ Yoink 웹사이트[^1]에 갔다가 이전에는 눈여겨 보지 못했던 사�
 
 ### One More Thing?
 
-지금까지 설명한 워크플로우는 기본적으로 영역을 지정하게 되어 있습니다. 그런데 깔끔하게 윈도우 창을 스크린샷으로 담고 싶은 경우도 많습니다. 그래서 아주 약간의 수정을 해서 워크플로우를 하나 더 만들었습니다. 이 워크플로우는 윈도우를 선택해서 스크린샷을 찍고 Yoink에 담아줍니다. 위에 단축키를 설정하는 스크린샷에서 이미 보신 분도 계시지요? [여기](/assets/Yoink_win_Screencapture_Workflow.workflow)에서 내려받을 수 있습니다. 설치하여 사용하는 방법은 위에서 설명드린 것과 같습니다.
+지금까지 설명한 워크플로우는 기본적으로 영역을 지정하게 되어 있습니다. 그런데 깔끔하게 윈도우 창을 스크린샷으로 담고 싶은 경우도 많습니다. 그래서 아주 약간의 수정을 해서 워크플로우를 하나 더 만들었습니다. 이 워크플로우는 윈도우를 선택해서 스크린샷을 찍고 Yoink에 담아줍니다. 위에 단축키를 설정하는 스크린샷에서 이미 보신 분도 계시지요? [여기](https://drive.google.com/file/d/0B_O14bil77TiMWFVajJpaUVmTkE/view?usp=sharing)에서 내려받을 수 있습니다. 설치하여 사용하는 방법은 위에서 설명드린 것과 같습니다.
 
 ### 맺으며
 
