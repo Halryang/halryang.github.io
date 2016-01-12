@@ -24,7 +24,7 @@ subprocess.call(["git", "commit", "-m", "Put your commit message here"])
 subprocess.call(["git", "push", "-u", "origin", "master"])
 ```
 
-위의 스크립트는 [여기](https://dl.dropboxusercontent.com/u/18183807/jekyllpush.py)에서 내려받을 수 있습니다.
+위의 스크립트는 [여기](https://dl.dropboxusercontent.com/u/18183807/jekyllpush.zip)에서 내려받을 수 있습니다.
 
 ### 스크립트 실행하기
 
