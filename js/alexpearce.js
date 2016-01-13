@@ -154,6 +154,10 @@ $(function() {
 
   $.each(map, function(type, value) {
     if (value !== null) {
+      
+      // vjava114 한글검색을 위해 추가함
+		  value = decodeURIComponent(value);
+		  
       $.getJSON('/search.json', function(data) {
         posts = filterPostsByPropertyValue(data, type, value);
         if (posts.length === 0) {
