@@ -156,7 +156,7 @@ $(function() {
     if (value !== null) {
       
       // vjava114 한글검색을 위해 추가함
-		            value = decodeURIComponent(value);
+		 value = decodeURIComponent(value);
 		  
       $.getJSON('/search.json', function(data) {
         posts = filterPostsByPropertyValue(data, type, value);
