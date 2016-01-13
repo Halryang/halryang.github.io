@@ -3,9 +3,6 @@ tags: life
 layout: post
 title: 50 Lessons Life Taught Me
 --- 
-
-## 50 Lessons Life Taught Me  
-
 1. Life isn't fair, but it's still good  
 2. When in doubt, just take the next small step  
 3. Life is too short not to enjoy it  
