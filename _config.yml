@@ -15,6 +15,7 @@ avatar: /images/avatar.png
 # Flags below are optional
 #
 
+future: false
 timezone: Asia/Seoul
 
 # Includes an icon in the footer for each username you enter
@@ -79,6 +80,7 @@ gems:
   - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-redirect-from
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:
