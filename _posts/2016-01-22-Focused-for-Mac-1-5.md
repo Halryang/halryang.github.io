@@ -16,10 +16,7 @@ Focused for Mac이 71Squared로 옮긴 후 처음으로 업데이트 되었습�
 
 위와 같이 입력하면 마크다운 처리를 통해 아래처럼 표가 생성됩니다.
 
-| heading 1 | heading 2 | heading 3 |
-| ------------ | :----------: | :----------: |
-| Hello         | Very cool | Hello        |
-| More data | Spanning Data  ||
+![](/images/ss_20160122_162609.jpg)
 
 표를 만드는 문법에 필요한 것들은 다음과 같습니다:
 
