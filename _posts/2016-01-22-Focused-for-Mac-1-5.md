@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Focused for Mac 1.5 updae and discount code
+title: Focused for Mac 1.5 update and discount code
 date: 2016-01-22 16:21:12
 tags: Focused mac app
 ---
