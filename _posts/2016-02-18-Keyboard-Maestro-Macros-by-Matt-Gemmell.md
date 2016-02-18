@@ -40,7 +40,7 @@ tags: Keyboard-Maestro
 * 현재 사용중인 앱의 노트를 수정하려면, `^N`을 누르면 됩니다.
 * 노트 창의 저장 버튼을 누르는 대신 `⌥↩`을, 삭제 버튼을 누르는 대신 `⌥D`를 사용할 수 있습니다.
 
-이 매크로로 작성한 노트는 플레인 텍스트 파일로 저장됩니다. 노트 파일은 `~/Library`안의 `Keyboard Maestro의 `Application Support`폴더 내에 `AppSpecificNotes` 폴더에서 찾아볼 수 있습니다. 이 매크로들은 Keyboard Maestro 버전 7 이후 버전에서만 작동합니다.
+이 매크로로 작성한 노트는 플레인 텍스트 파일로 저장됩니다. 노트 파일은 `~/Library`안의 Keyboard Maestro의 `Application Support`폴더 내에 `AppSpecificNotes` 폴더에서 찾아볼 수 있습니다. 이 매크로들은 Keyboard Maestro 버전 7 이후 버전에서만 작동합니다.
 
 [앱과 함께 볼 노트 작성 매크로 내려받기](http://mattgemmell.com/files/keyboard-maestro/app-specific-notes.zip)
 
