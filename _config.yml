@@ -51,6 +51,7 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
+future: true
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
@@ -65,7 +66,6 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jemoji # Emoji please!
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-redirect-from
   - jekyll-paginate
