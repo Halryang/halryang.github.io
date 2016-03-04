@@ -8,4 +8,10 @@ tags: Alfred Keyboard-Maestro
 
 ![](https://farm2.staticflickr.com/1554/24802651374_d0737f1d37_z.jpg)
 
+***
+
+Alfred 설정에서 Force keyboard가 가능하네요. 백투더맥 블로그의 [ONE](https://twitter.com/back2themac)님께서 친절하게 알려주셨습니다. 혹시 저처럼 몰랐던 분이 있을 수 있으니 설정 창의 해당 부분을 아래에 스크린샷으로 올립니다.
+
+![](https://farm2.staticflickr.com/1560/25458623406_bd19cde8ba_b.jpg)
+
 [4343-0001]: https://www.alfredapp.com/
