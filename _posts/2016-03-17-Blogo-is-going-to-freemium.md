@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blo바뀝니다
+title: Blogo가 Freemium으로 바뀝니다
 date: 2016-03-17 01:42:56
 tags: Blogo markdown app mac blogging
 ---
