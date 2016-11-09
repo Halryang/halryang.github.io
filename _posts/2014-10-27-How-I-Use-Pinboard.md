@@ -111,6 +111,6 @@ iOS에는 Pinboard를 편하게 사용할 수 있도록 돕는 어플이 많이 
 [3899-002]: https://www.instapaper.com/
 [3899-003]: https://getpocket.com/
 
-[^1]: 링크의 원래 페이지가 없어지더라도 볼 수 있도록 보관하는 "Bookmark Archive" 기능과 전문 검색(full-text search)을 이용하려면 "$25/년"의 Ar다.
+[^1]: 일반 계정은 "$11/년"의 사용료를 지불해야 하고, 링크의 원래 페이지가 없어지더라도 볼 수 있도록 보관하는 "Bookmark Archive" 기능과 전문 검색(full-text search)을 이용하려면 "$25/년"이 든다.
 
 [^3]: 나는 지금까지 Pinboard가 작동하지 않는 것을 본 적이 없다.
