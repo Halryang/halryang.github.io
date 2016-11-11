@@ -2,7 +2,7 @@
 layout: post
 title: 나의 Pinboard 사용법
 date: 2014-10-27 15:41:38
-tags: pinboard webservice bookmarking
+tags: pinboard webservice bookmarking How-I-Use
 ---
 
 

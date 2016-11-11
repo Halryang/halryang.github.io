@@ -2,7 +2,7 @@
 layout: post
 title: How I use nvALT
 date: 2014-11-01 15:27:28
-tags: mac-app productivity note
+tags: app productivity note How-I-Use
 ---
 
 1. nvALT 소개

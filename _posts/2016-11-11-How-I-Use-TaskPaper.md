@@ -2,7 +2,7 @@
 title: 나의 TaskPaper 사용법
 layout: post
 date: 2016-11-11 10:28:50
-tags: TaskPaper GTD app
+tags: TaskPaper GTD app How-I-Use
 --- 
 
 ```
