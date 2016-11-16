@@ -5,7 +5,7 @@ date: 2016-11-11 10:28:50
 tags: TaskPaper GTD app How-I-Use
 --- 
 
-* 목차
+1. 목차
 {:toc}
 
 ## 소개
