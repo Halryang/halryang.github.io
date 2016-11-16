@@ -1,6 +1,6 @@
 ---
 layout: post
-title: kramdown 기본 기로 목차 쉽게 넣기
+title: kramdown 기본 기능으로 목차 쉽게 넣기
 date: 2016-11-16 17:10:40
 tags: jekyll toc kramdown github
 ---
