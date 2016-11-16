@@ -5,25 +5,8 @@ date: 2016-11-11 10:28:50
 tags: TaskPaper GTD app How-I-Use
 --- 
 
-```
-1. 소개
-2. 기본 사용법
-    1. 프로젝트(Projects)
-    2. 할 일(Tasks)
-    3. 태그(Tags)
-    4. 노트(Notes)
-3. 실제 사용 예
-4. 활용 팁
-    1. Alfred workflow for TaskPaper
-    2. LaunchBar로 할일 입력하기
-    3. DEVONthink Pro 의 항목을 TaskPaper에 링크하기
-    4. 선택한 텍스트를 TaskPaper로 보내기
-    5. 선택한 텍스트를 TaskPaper로 보내기 via PopClip
-    6. 기본 리마인더 기능을 이용하기
-5. 테마 적용하기
-6. iOS에서 Editorial로 TaskPaper 사용하기
-7. 맺음말
-```
+* 목차
+{:toc}
 
 ## 소개
 이전에 [TaskPaper 3](http://taskpaper.com)를 사용하기 시작하면서 간략하게 [TaskPaper를 소개](http://halryang.net/tp3-is-out/)했습니다. TaskPaper는 플레인 텍스트로 할 일을 관리하는 앱으로 가볍고 유연한 것이 장점입니다. 이 글에서는 제가 지금까지 꾸준히 사용하면서 느낀 바를 조금 더 자세히 소개하고 어떻게 쓰고 있는지 나누려고 합니다.
