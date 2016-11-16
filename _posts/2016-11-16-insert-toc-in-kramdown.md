@@ -13,4 +13,4 @@ tags: jekyll toc kramdown github
 {:toc}
 ```
 
-[^1]: 이 방식으로 목차를 만들어 넣은 포스트가 궁금하시면 [이 글](http://halryang.net/How-I-Use-TaskPaper/#alfred-workflow-for-taskpaper "나의 TaskPaper 사용법 - 한량넷")을 보세요.
+[^1]: 이 방식으로 목차를 만들어 넣은 포스트가 궁금하시면 [이 글](http://halryang.net/How-I-Use-TaskPaper/ "나의 TaskPaper 사용법 - 한량넷")을 보세요.
