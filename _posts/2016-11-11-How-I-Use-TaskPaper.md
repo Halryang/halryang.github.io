@@ -67,7 +67,10 @@ TaskPaper 앱의 환경설정에서 `@done` 태그를 달 때 완료 날짜를 �
 
 [TaskPaper extensions wiki](http://support.hogbaysoftware.com/t/taskpaper-extensions-wiki/1628)에 가면 능력자들이 만들어 둔 다양한 테마와 스크립트를 볼 수 있습니다. 이 글에는 제가 직접 써본 것들만 소개하겠습니다.
 
-### [Alfred workflow for TaskPaper](http://www.packal.org/workflow/taskpaper)
+### Alfred workflow for TaskPaper
+
+[내려받기](http://www.packal.org/workflow/taskpaper)
+
 제가 지금 가장 많이 쓰는 Alfred workflow입니다. TaskPaper 파일을 한 번 선택하면 그 이후 파일을 TaskPaper에서 열기, 새로운 할 일을 입력하기, 입력된 항목 검색/선택하기, 프로젝트 검색/선택하기, 저장된 검색까지 사용할 수 있어서 정말 부족함이 없을 정도입니다.
 
 - **d:choosedoc** TaskPaper 파일 선택
@@ -78,20 +81,35 @@ TaskPaper 앱의 환경설정에서 `@done` 태그를 달 때 완료 날짜를 �
 - **dop** 프로젝트 검색해서 선택
 - **doss** TaskPaper에 저장된 검색(saved search) 실행
 
-### [LaunchBar로 할일 입력하기](https://github.com/raguay/MyLaunchBarActions)
-[LaunchBar Action](https://www.obdev.at/products/launchbar/actions.html)을 내려받아 설치한 후 실행하면 할 일 입력 창이 나오고 할 일을 입력한 후 TaskPaper 파일 안에 있는 프로젝트 목록이 나와 원하는 프로젝트로 바로 넣을 수 있습니다.
+### LaunchBar로 할일 입력하기
+
+[내려받기](https://github.com/raguay/MyLaunchBarActions)
+
+LaunchBar 액션을 내려받아 설치한 후 실행하면 할 일 입력 창이 나오고 할 일을 입력한 후 TaskPaper 파일 안에 있는 프로젝트 목록이 나와 원하는 프로젝트로 바로 넣을 수 있습니다.
 	
-### [DEVONthink Pro 의 항목을 TaskPaper에 링크하기](http://support.hogbaysoftware.com/t/devonthink-pro-adding-entry-as-link-in-taskpaper-3/1996/2)
+### DEVONthink Pro 의 항목을 TaskPaper에 링크하기
+
+[내려받기](http://support.hogbaysoftware.com/t/devonthink-pro-adding-entry-as-link-in-taskpaper-3/1996/2)
+
 DEVONthink Pro에서 한 개 이상의 항목을 선택하고 첫 번째 댓글에 있는 스크립트를 실행하면 TaskPaper의 Inbox 프로젝트에 @devonthink 태그를 포함한 링크를 만듭니다.
 ![](http://dr.halryang.net/oxtu+)
 	
-### [선택한 텍스트를 TaskPaper로 보내기](http://support.hogbaysoftware.com/t/basic-script-to-add-selected-text-to-taskpaper-3-inbox/1681/5)
+### 선택한 텍스트를 TaskPaper로 보내기
+
+[내려받기](http://support.hogbaysoftware.com/t/basic-script-to-add-selected-text-to-taskpaper-3-inbox/1681/5)
+
 선택한 텍스트를 TaskPaper의 Inbox 프로젝트로 보냅니다. Automator로 이 스크립트를 실행하는 서비스를 만들어 사용하고 있습니다. 키보드 단축키도 설정할 수 있어서 간편합니다.
 
-### [선택한 텍스트를 TaskPaper로 보내기 via PopClip](https://pilotmoon.com/popclip/extensions/page/TaskPaper)
-이것은 키보드를 사용하지 않을 때 유용한 [PopCilp](https://pilotmoon.com/popclip/)의 확장기능입니다. 텍스트를 선택하고 `Tv`를 눌러주면 선택한 텍스트가 TaskPaper의 Inbox 프로젝트에 할 일 항목으로 들어갑니다.
+### 선택한 텍스트를 TaskPaper로 보내기 via PopClip
+
+[내려받기](https://pilotmoon.com/popclip/extensions/page/TaskPaper)
+
+키보드를 사용하지 않을 때 유용한 [PopCilp](https://pilotmoon.com/popclip/)의 확장기능입니다. 텍스트를 선택하고 `Tv`를 눌러주면 선택한 텍스트가 TaskPaper의 Inbox 프로젝트에 할 일 항목으로 들어갑니다.
 	
-### [기본 리마인더 기능을 이용하기](http://support.hogbaysoftware.com/t/updated-script-to-create-reminders-or-calendar-events-from-tasks/1770)
+### 기본 리마인더 기능을 이용하기
+
+[내려받기](http://support.hogbaysoftware.com/t/updated-script-to-create-reminders-or-calendar-events-from-tasks/1770)
+
 저는 포럼에 있는 `nvremind.rb` 파일을 `/usr/local/bin/` 에 넣어두고 Hazel로 TaskPaper 파일 사이즈에 변화가 생기면 rb 스크립트를 실행하도록 했습니다. `@remind` 와 `@event` 태그를 발견하면 각각 미리 알림과 캘린더 앱에 해당 할 일을 등록하고 `@reminded` 와 `@event_created` 태그로 바꿔줍니다. 기본 리마인더와 연동하는 기능은 TaskPaper 3.6에서 추가될 예정이라고 하니, 곧 이런 과정 없이 편하게 사용할 수 있겠습니다.
 
 ## 테마 적용하기
