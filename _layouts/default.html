@@ -50,6 +50,7 @@
           	<a href="{{ site.baseurl }}/about/"><img src="{{ site.baseurl }}/images/icon/profile29.png" /></a>
             <a href="{{ site.baseurl }}/tags/"><img src="{{ site.baseurl }}/images/icon/price14.png" /></a>
             <a href="{{ site.baseurl }}/archive/"><img src="{{ site.baseurl }}/images/icon/notes26.png" /></a>
+            <a href="{{ site.baseurl }}/search/"><img src="{{ site.baseurl }}/images/icon/search.png" /></a>
             <a href="{{ site.baseurl }}/micro/"><img src="{{ site.baseurl }}/images/icon/speechbubble6.png" /></a>
           </nav>
         </header>
@@ -72,26 +73,3 @@
     {% include analytics.html %}
   </body>
 </html>
-
-<!— Html Elements for Search -->
-<div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
-<ul id="results-container"></ul>
-</div>
-
-<!-- Script pointing to jekyll-search.js -->
-<script src="{{site.baseurl}}/dest/jekyll-search.js" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-      SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search2.json',
-        searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
