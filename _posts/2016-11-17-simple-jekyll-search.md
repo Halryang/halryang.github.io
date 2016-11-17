@@ -21,7 +21,7 @@ tags: jekyll blogging search js plugin
 이제 한량넷에서 봤는데 어딨었더라 하는 글이 있다면 가장 상단 우측의 돋보기 아이콘을 누르고 편하게 검색하세요! :)
 
 
-[6812-0001]: https://twitter.com/telemachus
+[6812-0001]: https://twitter.com/telemachus77
 
 
 <!-- Report:
