@@ -31,7 +31,7 @@ TaskPaper 앱의 환경설정에서 `@done` 태그를 달 때 완료 날짜를 �
 ### 노트(Notes)
 하이픈으로 시작하거나 콜론으로 끝나지 않는 글은 노트로 인식합니다. 저는 프로젝트나 할 일 아래에 들여쓰기 해서 관련 정보 등을 노트로 적습니다.
 
-개발사에서 제공하는 TaskPaper 사용법은 [여기](https://guide.taskpaper.com/)에서 보실 수 있습니다.
+개발사에서 제공하는 TaskPaper 사용법은 [여기](https://guide.taskpaper.com/)에서 보실 수 있습니다. 개발자가 튜토리얼 동영상도 올리고 있으니 영상으로 보는 것이 편하신 분은 [여기로](https://medium.com/hog-bay-software/tagged/tutorial) 가보세요. 
 
 ## 실제 사용 예
 
@@ -66,6 +66,31 @@ TaskPaper 앱의 환경설정에서 `@done` 태그를 달 때 완료 날짜를 �
 ## 활용 팁
 
 [TaskPaper extensions wiki](http://support.hogbaysoftware.com/t/taskpaper-extensions-wiki/1628)에 가면 능력자들이 만들어 둔 다양한 테마와 스크립트를 볼 수 있습니다. 이 글에는 제가 직접 써본 것들만 소개하겠습니다.
+
+### 기본 미리 알림 앱(Reminders.app)과 연계하기
+
+[여기](https://medium.com/hog-bay-software/using-taskpaper-with-reminders-57caa08124a9#.me00eolw3)에 있는 동영상을 참고하시기 바랍니다.
+
+#### TaskPaper → 미리 알림
+
+1. TaskPaper에서 항목을 선택하기
+2. 커맨드 팔레트(command pallete) 열기: `⌘⇧P` 단축키
+3. Export to Reminders 커맨드 실행하기: `etr`
+4. 원하는 미리 알림 리스트 선택하기. 끝.
+
+#### 미리 알림 → TaskPaper
+
+1. 커맨드 팔레트(command pallete) 열기: `⌘⇧P` 단축키
+2. Import Reminders 커맨드 실행하기: `ir`
+3. 가져올 항목 선택하기. 끝.
+
+### 날짜 입력하기 팁
+
+[여기](https://medium.com/hog-bay-software/using-taskpaper-with-reminders-57caa08124a9#.me00eolw3)에 있는 동영상을 참고하시기 바랍니다.
+
+1. 커맨드 팔레트(command pallete) 열기: `⌘⇧P` 단축키
+2. Insert Date 커맨드 실행하기: `id`
+3. 날짜 선택하기: 화살표 키로 이동해서 선택할 수 있고, 자연어 입력(영어)도 가능합니다.
 
 ### Alfred workflow for TaskPaper
 
