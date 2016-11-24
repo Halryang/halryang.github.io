@@ -135,7 +135,7 @@ DEVONthink Pro에서 한 개 이상의 항목을 선택하고 첫 번째 댓글�
 
 [내려받기](http://support.hogbaysoftware.com/t/updated-script-to-create-reminders-or-calendar-events-from-tasks/1770)
 
-저는 포럼에 있는 `nvremind.rb` 파일을 `/usr/local/bin/` 에 넣어두고 Hazel로 TaskPaper 파일 사이즈에 변화가 생기면 rb 스크립트를 실행하도록 했습니다. `@remind` 와 `@event` 태그를 발견하면 각각 미리 알림과 캘린더 앱에 해당 할 일을 등록하고 `@reminded` 와 `@event_created` 태그로 바꿔줍니다. 기본 리마인더와 연동하는 기능은 TaskPaper 3.6에서 추가될 예정이라고 하니, 곧 이런 과정 없이 편하게 사용할 수 있겠습니다.
+저는 포럼에 있는 `nvremind.rb` 파일을 `/usr/local/bin/` 에 넣어두고 Hazel로 TaskPaper 파일 사이즈에 변화가 생기면 rb 스크립트를 실행하도록 했습니다. `@remind` 와 `@event` 태그를 발견하면 각각 미리 알림과 캘린더 앱에 해당 할 일을 등록하고 `@reminded` 와 `@event_created` 태그로 바꿔줍니다. TaskPaper 3.6 버전에서 이제 기본 리마인더 앱과 연동이 가능하니 꼭 이렇게 복잡하게 하지 않아도 되지만, 저는 이게 이제 익숙해서 그냥 이 스크립트를 쓰고 있습니다.
 
 ## 테마 적용하기
 
