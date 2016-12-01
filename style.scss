@@ -20,7 +20,7 @@ html {
 
 body {
 	background: #f2f2f2;
-  font: 18px/1.6 "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum;
+  font: 18px/1.6 "Apple SD Gothic Neo", '나눔고딕', 'Nanum Gothic', '돋움', Dotum;
   color: $darkGray;
 }
 
@@ -32,10 +32,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum;
+  font-family: "Apple SD Gothic Neo", '나눔고딕', 'Nanum Gothic', '돋움', Dotum;
   color: $darkerGray;
   font-weight: bold;
-  
+
   line-height: 1.7;
   margin: 1em 0 15px;
   padding: 0;
@@ -44,26 +44,26 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.4;
   }
 }
-  
-h1 {  
+
+h1 {
   font-size: 30px;
   a {
     color: inherit;
   }
 }
 
-h2 {  
+h2 {
   font-size: 24px;
   a {
     color: inherit;
   }
 }
 
-h3 {  
+h3 {
   font-size: 20px;
 }
 
-h4 {  
+h4 {
   font-size: 18px;
   color: $gray;
 }
@@ -160,7 +160,7 @@ img {
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
-  
+
   @include mobile {
     text-align: center;
   }
@@ -197,7 +197,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum; 
+  font-family: "Apple SD Gothic Neo", '나눔고딕', 'Nanum Gothic', '돋움', Dotum;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -207,7 +207,7 @@ img {
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
-  
+
   @include mobile {
     margin: 3px 0;
   }
@@ -217,9 +217,9 @@ nav {
   float: right;
   margin-top: 17px;
   display: inline-block;
-  font-family: "Apple SD Gothic Neo", '나눔고딕', NanumGothic, '돋움', Dotum; 
+  font-family: "Apple SD Gothic Neo", '나눔고딕', 'Nanum Gothic', '돋움', Dotum; 
   font-size: 18px;
-  
+
   @include mobile {
     float: none;
     margin-top: 9px;
@@ -254,7 +254,7 @@ nav {
   border-bottom: none;
 }
 
-.post { 
+.post {
   blockquote {
     margin: 1em .5em;
     border-left: 3px solid $gray;
@@ -299,7 +299,7 @@ div.pagination {
 div.pagination span {
   padding: 2px 5px 2px 5px;
   margin-right: 2px;
-  
+
   text-decoration: none;
 }
 
@@ -307,7 +307,7 @@ div.pagination a {
   padding: 2px 5px 2px 5px;
   margin-right: 2px;
   border: 1px solid #4183C4;
-  border-radius: 3px; 
+  border-radius: 3px;
   text-decoration: none;
   background-color: #4183C4;
   color: #FFF;
