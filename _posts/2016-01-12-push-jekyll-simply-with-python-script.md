@@ -35,3 +35,16 @@ Automator를 켜고 새로운 서비스 만들기를 엽니다.
 
 ![](/images/ss_20160112_113023.jpg)
 왼쪽 Actions 패널에서 Utilities 라이브러리의 Rus Shell Script 액션을 오른쪽 패널로 드래그한 후 위 스샷과 같이 `python /path/to/python/script/jekyllpush.py` 를 입력합니다. 이제 적당한 이름으로 저장한 후 사용하시면 됩니다.
+
+---
+
+@jmjeong 님께서 Shell script로 실행하면 속도/메모리 사용량 측면에서 좋다는 말씀을 해주셔서 이제 아래처럼 shell script로 쓰고 있습니다.
+
+```
+#!/bin/sh
+
+cd ~/지킬폴더
+git add .
+git commit -m "update"
+git push -u origin master
+```
