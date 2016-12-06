@@ -38,7 +38,7 @@ Automator를 켜고 새로운 서비스 만들기를 엽니다.
 
 ---
 
-@jmjeong 님께서 Shell script로 실행하면 속도/메모리 사용량 측면에서 좋다는 말씀을 해주셔서 이제 아래처럼 shell script로 쓰고 있습니다.
+[@jmjeong](https://twitter.com/jmjeong) 님께서 Shell script로 실행하면 속도/메모리 사용량 측면에서 좋다는 말씀을 해주셔서 이제 아래처럼 shell script로 쓰고 있습니다.
 
 ```
 #!/bin/sh
