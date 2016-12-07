@@ -9,7 +9,7 @@ tags: jekyll toc kramdown github
 [kramdown](http://kramdown.gettalong.org/index.html)은 Jekyll에서 마크다운을 처리하는데 사용하는 기본 처리엔진입니다. kramdown이 마크다운을 HTML로 전환할 때 헤더 ID를 자동으로 생성한다고 합니다. 이 헤더 ID를 이용해서 kramdown을 이용하는 Jekyll 블로그 글에는 원하는 곳에 아래처럼 코드 두 줄을 넣으면 간단하게 목차를 넣을 수 있습니다.[^1]
 
 ```
-1. 목차
+* 목차
 {:toc}
 ```
 
