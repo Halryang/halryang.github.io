@@ -1,5 +1,5 @@
 ---
-Title: 압축 파일 빠르게 푸는 Keyboard Maestro Macro
+title: 압축 파일 빠르게 푸는 Keyboard Maestro Macro
 layout: post
 date: 2016-12-08 16:15:08
 tags: Keyboard-Maestro productivity
