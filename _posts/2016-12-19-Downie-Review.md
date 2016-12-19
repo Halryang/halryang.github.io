@@ -21,4 +21,4 @@ tags: Downie review
 
 Downie는 [여기](http://trial.charliemonroe.net/downie/download.php)에서 무료 체험판을 받아 써 볼 수 있습니다. 제가 본 깔끔한 리뷰 영상 하나를 소개하며 글을 마칩니다.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/zTosR73s2fc&index=2&list=PL-pkl0kGKfVdI2x5GBQP8ttKLzkadB4w0' frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='http://www.youtube.com/embed/zTosR73s2fc' frameborder='0' allowfullscreen></iframe></div>
