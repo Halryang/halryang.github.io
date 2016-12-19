@@ -8,4 +8,4 @@ tags: ssh github
 
 그래서 [여기](http://stackoverflow.com/questions/10032461/git-keeps-asking-me-for-my-ssh-key-passphrase "github - Git keeps asking me for my ssh key passphrase - Stack Overflow”)에 있는 답변을 참고해서 `ssh-add` 명령어를 입력했습니다.
 
-
+이글은 위 명령어로 푸시할 때 passphrase를 안 넣어도 되도록 설정할 수 있는지 시험하는 글이기도 합니다.
