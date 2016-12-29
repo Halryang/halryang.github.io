@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>query</key>
+	<dict>
+		<key>conditions</key>
+		<array>
+			<dict>
+				<key>conditionType</key>
+				<string>ContentSearch</string>
+				<key>definition</key>
+				<string>filename</string>
+				<key>expression</key>
+				<array>
+					<dict>
+						<key>maximumDistance</key>
+						<integer>4</integer>
+						<key>options</key>
+						<integer>129</integer>
+						<key>searchString</key>
+						<string>2016-12</string>
+					</dict>
+				</array>
+				<key>queryString</key>
+				<string>2016-12</string>
+				<key>scopeMask</key>
+				<string></string>
+				<key>searchOptions</key>
+				<integer>0</integer>
+				<key>stringOptions</key>
+				<integer>129</integer>
+			</dict>
+		</array>
+		<key>options</key>
+		<array/>
+		<key>requireAll</key>
+		<false/>
+	</dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>query</key>
+		<real>504682932.44890302</real>
+	</dict>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>query</key>
+		<dict>
+			<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
+			<integer>19</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
