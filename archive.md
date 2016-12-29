@@ -16,7 +16,6 @@ permalink: /archive/
 {% endif %}
 <li> <a href="{{ post.url }}">{{ post.title }}</a>  <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span><br><div>
     <ul class="tags post-tags cf">
-      <li>Tagged:</li>
       {% for tag in post.tags %}
       <li><a href="/search/?tags={{ tag }}">{{ tag | downcase }}</a></li>
       {% endfor %}
