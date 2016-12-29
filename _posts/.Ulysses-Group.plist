@@ -728,6 +728,8 @@
 				</dict>
 			</dict>
 		</dict>
+		<key>sheetOrder</key>
+		<real>504718168.56050801</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
@@ -942,6 +944,8 @@
 			<string>2016-12-26-free-mighty-mac-app-bundle-by-StackSocial.md</string>
 		</array>
 	</array>
+	<key>sheetOrder</key>
+	<string>title</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -960,6 +964,11 @@
 		<dict>
 			<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
 			<integer>8</integer>
+		</dict>
+		<key>sheetOrder</key>
+		<dict>
+			<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
+			<integer>1</integer>
 		</dict>
 	</dict>
 </dict>

@@ -2,10 +2,10 @@
 layout: post
 title: Review - Ulysses for Mac
 date: 2016-12-30 00:19
-tags: review Ulysses mac\_app
+tags: review Ulysses mac_app
 ---
 
-[Ulysses for Mac][1]을 [Setapp][2] [^1] 덕분에 써볼 수 있게 되었습니다. 사실 이전에 체험판을 써봤지요. 그때 느끼기엔 너무 예쁘고, 기능도 깔끔하게 들어 있지만 제가 주로 사용하는 Dropbox를 기반으로 작동하는 것이 아니고 iCloud를 기반으로 하는 점과, 제가 쓰는 마크다운 문법(MMD)와는 다른 Markdown XL이라는 자체 문법을 사용한다는 점에서 약간 거리감을 느꼈습니다. 하지만 Ulysses에서 기본 마크다운 문법으로 내보내기가 가능하고, Dropbox 외부 폴더도 지원이 가능하기에 다시 사용해보려고 합니다.
+[Ulysses for Mac][1]을 [Setapp][2][^1] 덕분에 써볼 수 있게 되었습니다. 사실 이전에 체험판을 써봤지요. 그때 느끼기엔 너무 예쁘고, 기능도 깔끔하게 들어 있지만 제가 주로 사용하는 Dropbox를 기반으로 작동하는 것이 아니고 iCloud를 기반으로 하는 점과, 제가 쓰는 마크다운 문법(MMD)와는 다른 Markdown XL이라는 자체 문법을 사용한다는 점에서 약간 거리감을 느꼈습니다. 하지만 Ulysses에서 기본 마크다운 문법으로 내보내기가 가능하고, Dropbox 외부 폴더도 지원이 가능하기에 다시 사용해보려고 합니다.
 
 ### 글쓰기에 적합한 환경
 
