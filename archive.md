@@ -14,7 +14,7 @@ permalink: /archive/
 {% if forloop.index != 1 %}</ul>{% endif %}
 <h3>{{ post.date | date: '%Y년 %m월' }}</h3><ul>
 {% endif %}
-<li> <p><a href="{{ post.url }}">{{ post.title }}</a>  <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span><br><div>
+<li> <a href="{{ post.url }}">{{ post.title }}</a>  <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span><br><div>
     <ul class="tags post-tags cf">
       <li>Tagged:</li>
       {% for tag in post.tags %}
