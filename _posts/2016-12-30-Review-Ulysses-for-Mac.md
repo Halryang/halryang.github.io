@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Review: Ulysses for Mac
+title: Review - Ulysses for Mac
 date: 2016-12-30 00:19
 tags: review Ulysses mac\_app
 ---
