@@ -727,12 +727,42 @@
 					<integer>7</integer>
 				</dict>
 			</dict>
+			<key>2017-01-04-New Ulysses Sheet with Selection.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>505191315.57101399</real>
+				<key>lastModification</key>
+				<real>505191315.57101399</real>
+				<key>version</key>
+				<dict>
+					<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
+			<key>2017-01-04-New-Ulysses-Sheet-with-Selection.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>505191370.85602498</real>
+				<key>version</key>
+				<dict>
+					<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
+					<integer>16</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
-		<real>504718168.56050801</real>
+		<real>505115538.66734898</real>
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>2017-01-04-New Ulysses Sheet with Selection.md</string>
+		</array>
+		<array>
+			<string>2017-01-04-New-Ulysses-Sheet-with-Selection.md</string>
+		</array>
 		<array>
 			<string>2016-12-30-Review-Ulysses-for-Mac.md</string>
 		</array>
@@ -945,7 +975,7 @@
 		</array>
 	</array>
 	<key>sheetOrder</key>
-	<string>title</string>
+	<string>title,descending</string>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
 	<key>versioning</key>
@@ -963,12 +993,12 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
-			<integer>8</integer>
+			<integer>17</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
 			<key>d3ad86089a6ced62944c92552a1e564ce079152c424e8af2f5055e63166aaeb9</key>
-			<integer>1</integer>
+			<integer>2</integer>
 		</dict>
 	</dict>
 </dict>
