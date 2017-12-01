@@ -8,7 +8,7 @@ tags: Keyboard-Maestro
 
 요즘 거의 모든 앱은 자동으로 업데이트가 있는지 확인하는 기능이 있다. 그래도 앱을 사용하다 보면 지금 사용하고 있는 버전이 가장 최신 업데이트 버전인지 확인하고 싶은 때가 있다. 그때마다 메뉴로 커서를 옮겨서 업데이트를 확인하기 귀찮아서 매크로를 만들었다.
 
-![Check for Update - Keyboard Maestro Macro](http://dl.dropboxusercontent.com/u/18183807/wp/CUkmm.jpg "Check for Update - Keyboard Maestro Macro")
+![Check for Update - Keyboard Maestro Macro](/assets/CUkmm.jpg "Check for Update - Keyboard Maestro Macro")
 
 단순하다. 맥에서 사용하는 거의 모든 앱이 화면의 왼쪽 위에 한 입 베어 문 사과 모양 아이콘의 바로 오른쪽에 해당 앱의 이름으로 된 메뉴를 제공한다. 보통 이 메뉴를 클릭해서 아래로 펼쳐지는 항목 중 "Check for update..."을 눌러서 최신 업데이트 버전인지 확인한다.
 
