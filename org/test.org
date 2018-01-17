@@ -17,14 +17,16 @@ tags: [emacs]
 - 내보내는 것은 org에서 html로 바뀌어서 _posts 폴더로
 - 날짜는 내보내는 날짜로 자동으로 들어가면 좋겠다.
 
-현재 참고 중인 페이지는 [[https://carl.ac/blogging-with-emacs-org-github-pages/][Blogging with emacs org github pages]]
+현재 참고 중인 페이지는 [[https://carl.ac/blogging-with-emacs-org-github-pages/][Blogging with emacs org github pages]][^1]
 
 *** Image link test
 
-test[fn:1]
+test[^2]
 
 [[../images/avatar.png]]
 
-* Footnotes
 
-[fn:1]../images/avatar.png를 더블 브라켓 안에 넣으면 아래와 같이 된다.
+
+[^1]: 이대로 적용하니 내가 쓰던 Bigfoot 각주 기능이 되지 않는다.
+
+[^2]: ../images/avatar.png를 더블 브라켓 안에 넣으면 아래와 같이 된다.
