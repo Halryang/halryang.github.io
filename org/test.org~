@@ -10,7 +10,7 @@ tags: [emacs]
 
 ** Org mode에서 바로 글을 작성
 
-이게 얼마나 잘 작동할는지 모르겠지만 시험해보고 싶어졌다.
+이게 얼마나 잘 작동할런지 모르겠지만 시험해보고 싶어졌다.
 
 - Emacs에서 편하게 글을 작성
 - 글을 작성하는 것은 org mode에서 *.org로
@@ -27,4 +27,4 @@ test[fn:1]
 
 * Footnotes
 
-[fn:1]../images/avatar.png를 더블 브라켓 안에 넣으면 아래와 같이 된다.
+[fn:1]: ../images/avatar.png를 더블 브라켓 안에 넣으면 아래와 같이 된다.
