@@ -76,3 +76,4 @@ exclude:
     - Gemfile.lock
     - LICENSE
     - README.md
+    - org
