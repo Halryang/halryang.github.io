@@ -65,10 +65,12 @@ Emacs에 있는 자체 입력기를 사용하는 것으로 해결할 수 있습�
 
 ### Preview with Marked 2 ###
 
-제가 마크다운 파일을 미리보기 할 때면 항상 사용하는 Marked 2가 Emacs에서 편집 중인 파일도 쉽게 볼 수 있다는 사실을 [여기](https://jblevins.org/log/marked-2-command "Running Marked 2 from the Command Line")서 알게 되었습니다. 당연히 바로 적용해봤고, 잘 작동하는 것을 확인했습니다. 편집 중인 마크다운 문서를 미리보기 하려면 `C-c-c o`를 누르면 Marked 2가 실행됩니다. 필요에 따라 아래의 스크린샷처럼 Emacs와 Marked 2를 나란히 놓고 사용하면 Emacs에서 파일을 수정한 후 `C-x-s`로 저장하면 바로 옆의 화면에서 편집한 내용을 확인할 수 있습니다.
+제가 마크다운 파일을 미리보기 할 때면 항상 사용하는 Marked 2가 Emacs에서 편집 중인 파일도 쉽게 볼 수 있다는 사실을 [여기](https://jblevins.org/log/marked-2-command "Running Marked 2 from the Command Line")서 알게 되었습니다. 당연히 바로 적용해봤고, 잘 작동하는 것을 확인했습니다. 편집 중인 마크다운 문서를 미리보기 하려면 `C-c-c o`를 누르면 Marked 2가 실행됩니다. 필요에 따라 아래의 스크린샷처럼 Emacs와 Marked 2를 나란히 놓고 사용하면 Emacs에서 파일을 수정한 후 `C-x-s`로 저장하면 바로 옆의 화면에서 편집한 내용을 확인할 수 있습니다.[^1]
 
 ![screenshot of Emacs with marked 2](https://cl.ly/1y3V1Y3P3C2S/Image%202018-01-18%20at%204.17.54%20PM.png "Screenshot of Emacs with Marked2")
 
 ## 맺음말 ##
 
 어색한 Emacs지만 그래도 또 제가 편하게 사용할 수 있도록 하나하나 맞춰가는 재미가 있습니다. 폰트도 위의 스크린샷과 달리 "이롭게 바탕체"로 바꾸니 더욱 글을 쓸 맛이 나네요. 저는 코딩을 하는 일이 거의 없으니 그냥 제가 쓴 글이 예쁘게 보이는 폰트로 설정했습니다. 앞으로 Emacs를 쓰면서 또 재밌는 것들을 포스팅하도록 하겠습니다. :)
+
+[^1]: 평소에는 그냥 모두 적고 나서 편집할 때 가끔 이렇게 확인합니다. Marked 2는 링크가 적절하게 들어갔는지 등을 확인할 수 있어서 더욱 좋아합니다.
