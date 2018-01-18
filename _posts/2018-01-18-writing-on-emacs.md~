@@ -1,0 +1,37 @@
+---
+layout: post
+title: Writng on Emacs for jekyll blog
+date: 2018-01-18 00:38:51
+tags: Emacs jekyll blogging
+---
+
+새해 들어서 Emacs를 써보기 시작하면서 이것으로 지킬 블로깅도 할 수 있을지 궁금해졌습니다. Emacs의 강력한 기능은 제가 잘 알지도 못하니 간단히 글을 적는 것으로 사용할 수 있는데요. 저는 글을 많이 적는 것도 아니고 어찌 보면 블로그에 글을 적는 것이 일기 외에는 유일한 글 적는 곳이니까요. 일단 마크다운으로 글을 적는 것은 플레인텍스트 기반이기에 어느 앱을 사용해도 무리가 없습니다. Emacs는 간단하게 글을 적고 바로 Magit을 이용해서 GitHub에 Publish까지 할 수 있을 것 같습니다. 글을 적는 앱이 따로 있고 또 터미널을 열어서 git commit, push를 해야 하는 것을 한 곳에서 할 수 있다는 장점이 있지요. 다만 그것을 제대로, 편하게 하기 위해서는 조금 배움이 필요한 것 같습니다.
+
+## 부딪힌 문제들 ##
+
+### 한글 자소가 분리되어 나오는 증상 ###
+
+Emacs에 있는 자체 입력기를 사용하는 것으로 해결할 수 있습니다. 저는 Keyboard Maestro로 Emacs를 활성화할 때 macOS 자판을 항상 영어 자판으로 설정하도록 하고, Emacs 내부의 입력기를 사용하는 것으로 세팅했습니다.
+
+기존에 사용하던 Alfred snippet이 Emacs에서는 작동하지 않는데, 이것은 아마 Paste 형식으로 snippet 확장이 일어나기 때문인 것 같습니다. Keyboard Maestro에서 "Insert Text by Typing"으로 만든 스니펫은 잘 작동합니다.
+
+## markdown-mode on Emacs ##
+
+[Markdown-mode project source](https://jblevins.org/projects/markdown-mode/ "markdown-mode")를 참고해서 Emacs에 markdown-mode를 넣었다. 내가 주로 사용하는 마크다운의 기능은 이미 아주 충분히 구현되어 있다.
+
+- `C-c-l`: insert markdown link
+- `C-c-i`: markdown insert image
+- `C-c-s C`: insert a GFM style backquote fenced code block
+- `C-c-s f`: insert footnotes
+- `C-c-o`: Following links
+- Editing Lists: `M-RET`, `C-c UP`, `C-c DOWN`, `C-c LEFT`, and `C-c RIGHT`
+    - 새로운 리스트 항목, 포인트가 위치한 항목을 위 아래로 이동, 항목을 들여쓰기/내어쓰기
+- Shifting the Region: `C-c <` and `C-c >`
+- Killing Elements: `C-c-k`
+- Outline Navigation: 
+    - `C-c-n`, `C-c-p`: 다음/이전 headings/리스트 항목으로 이동(레벨 무관)
+    - `C-c-f`, `C-c-b`: 다음/이전 headings/리스트 항목으로 이동(같은 레벨)
+    - `C-c-u`: 상위 heading/리스트 항목으로 이동
+- Markdown 단락 단위 이동: `M-{`, `M-}`, and `M-h`
+    - `M-h`: 단락을 설정
+- 
